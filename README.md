@@ -8,7 +8,7 @@
 
 ## 🧠 Men haqimda qisqacha:
 
-- 🎓 8-sinf o'quvchisi
+- 🎓 8-sinf o'quvchisi Mirjahon Khayrullayevman
 - 💻 Full Stack Developer bo'lishni xohlayman
 - 🛠️ Telegram botlar, veb ilovalar, Python loyihalari ustida ishlayman
 - 📱 Har doim yangilik o‘rganishga intilaman
@@ -38,8 +38,8 @@
 
 ## 🌐 Muloqot
 
-- Telegram: [@TIMII_fullstack]
-- Admin: [@TIMII_fullstack1]
+- Telegram: (@TIMII_fullstack)
+- Admin: (@TIMII_fullstack1)
 - github:(https://github.com/khayrullayev-02)
 
 ---
