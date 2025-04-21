@@ -38,8 +38,8 @@
 
 ## 🌐 Muloqot
 
-- Telegram: (@TIMII_fullstack)
-- Admin: (@TIMII_fullstack1)
+- Telegram: @TIMII_fullstack
+- Admin: @TIMII_fullstack1
 - github:(https://github.com/khayrullayev-02)
 
 ---
